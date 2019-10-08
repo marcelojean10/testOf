@@ -1,5 +1,5 @@
 # testOf
-Design Patterns de uma factory feita em PHP emcima de um teste realizado por mim.
+Design Patterns de uma Template method feita em PHP emcima de um teste realizado por mim.
 
 #Próximos à fazeres:
 
